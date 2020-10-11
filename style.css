@@ -90,11 +90,11 @@ body {
 
 .menu-btn.open .menu-btn__lines::before {
     transform: rotate(45deg) translate(-1.5rem, 1.5rem);
-    background-color: #fff;
+    background-color: #dd0a0a;
 }
 .menu-btn.open .menu-btn__lines::after {
     transform: rotate(-45deg) translate(-1.5rem, -1.5rem);
-    background-color: #fff;
+    background-color: #dd0a0a;
 }
 /* section */
 
